@@ -14,7 +14,7 @@ class SumOfNaturalN{
 	}
 }
 
-public class SumOfn{
+public class SumOfNat{
 	public static void main(String[] args) {
 		Scanner scanner=new Scanner(System.in);
 		SumOfNaturalN sn=new SumOfNaturalN();
@@ -26,6 +26,7 @@ public class SumOfn{
 			
 	}
 }
+
 
 
 
